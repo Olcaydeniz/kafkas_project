@@ -239,7 +239,7 @@
 }
  .offer-box li i{
      margin-right: 15px;
-     color: #b0b435;
+     color: #FF6800;
      font-size: 20px;
 }
  .our-link{
@@ -394,7 +394,7 @@
          color: #eee;
     }
     a.daha{
-        color: blue;
+        color:#FF6800;
     }
 }
  @media (max-width: 992px) {
